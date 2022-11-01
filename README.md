@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋, I'm Hibiki Takahashi
 
 - 🔭 I’m currently working on a study of camera estimation with NeRF
 - 🌱 I’m currently learning NeRF-based VSLAM

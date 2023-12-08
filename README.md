@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning computer vision
 - 🏫 I belong to the University of Tsukuba
 - 📝 I regularly write articles on [https://hibikid39.blog.jp/](https://hibikid39.blog.jp/)
-- 📫 How to reach me **s2220756@s.tsukuba.ac.jp**
+- 📫 How to reach me **s2220756@u.tsukuba.ac.jp**
 
 <p align="left">
   <a href="https://github.com/hibikid39/hibikid39/">

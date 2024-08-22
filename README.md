@@ -13,10 +13,6 @@
   </a>  
   <a href="https://github.com/hibikid39">
     <img height="20" src="https://img.shields.io/github/followers/hibikid39?label=follow&logo=github&style=flat" />
-  </a>
-    <a href="http://twitter.com/candy_sherl">
-    <img height="20" src="https://img.shields.io/twitter/follow/candy_sherl?label=Twitter&logo=twitter&style=flat" />
-  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
